@@ -271,7 +271,7 @@ public class DemoApplication {
 ```
 
 ### Output
-<img width="1415" height="818" alt="image" src="https://github.com/user-attachments/assets/89222154-fa19-4e9b-aad2-87a4154bfc4f" />
+<img width="1429" height="759" alt="image" src="https://github.com/user-attachments/assets/00c1a80d-58e1-4a38-a765-ef4b0aade4a4" />
 
 ### Result
 The Spring Boot application successfully performed CRUD operations on the Student entity using Spring Data JPA (Hibernate) and Postman.
